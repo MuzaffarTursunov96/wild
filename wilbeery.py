@@ -1,30 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@MuzaffarTursunov96 
-iBekzod
-/
-parsing
-Private
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-parsing/parse_wild.py /
-@iBekzod
-iBekzod file added
-Latest commit 39e7b6f on Nov 18, 2021
- History
- 1 contributor
-1054 lines (960 sloc)  48 KB
+
 
 import random
 import time
